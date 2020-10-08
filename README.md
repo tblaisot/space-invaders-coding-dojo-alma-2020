@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/tblaisot/space-invaders-coding-dojo-alma-2020)](https://repl.it/github/tblaisot/space-invaders-coding-dojo-alma-2020)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
